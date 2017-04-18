@@ -24,7 +24,7 @@ Pre-requisite development environment steps to follow before working on any of t
     ```
     curl -L "https://cli.run.pivotal.io/stable?release=macosx64-binary&source=github" | tar -zx
     ```
-    If you have issues with the curl command, follow the link here: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html
+    If you have issues with the curl command, follow the link here to download the CF CLI: https://docs.cloudfoundry.org/cf-cli/install-go-cli.html
 
   * Verify the version: `cf --version`
 
